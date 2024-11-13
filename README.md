@@ -6,8 +6,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing football and growing plants!
 
-- ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark)
-
 
 <!---
 aunghlapaing/aunghlapaing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
